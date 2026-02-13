@@ -1,0 +1,34 @@
+Year: 0
+
+
+
+Name:Colten
+Color: White
+Age:0
+Marvel: False
+Gender: Female
+
+Name:Bo
+Color: Brown
+Age:0
+Marvel: False
+Gender: Male
+
+Name:Dixie
+Color: Grey
+Age:0
+Marvel: False
+Gender: Male
+
+Name:Tyree
+Color: Black
+Age:0
+Marvel: False
+Gender: Male
+
+Name:Natalee
+Color: Blonde
+Age:0
+Marvel: False
+Gender: Male
+
